@@ -1,32 +1,62 @@
-{
-  "updatedAt": "2025-08-27T00:00:00Z",
-  "currency": "PLN",
-  "products": [
-    {
-      "id": "p-001",
-      "name": "Kubek PROSTY",
-      "slug": "kubek-prosty",
-      "price": 29.99,
-      "stock": 42,
-      "category": "akcesoria",
-      "thumbnail": "https://picsum.photos/seed/kubek/640/480",
-      "images": ["https://picsum.photos/seed/kubek1/800/600","https://picsum.photos/seed/kubek2/800/600"],
-      "short": "Bialy kubek 300 ml.",
-      "description": "Ceramiczny kubek 300 ml, mozna myc w zmywarce.",
-      "tags": ["kubek","ceramika","prosty"]
-    },
-    {
-      "id": "p-002",
-      "name": "Koszulka LOGO",
-      "slug": "koszulka-logo",
-      "price": 59.00,
-      "stock": 17,
-      "category": "odziez",
-      "thumbnail": "https://picsum.photos/seed/koszulka/640/480",
-      "images": ["https://picsum.photos/seed/koszulka1/800/600"],
-      "short": "Bawelna 100%%, unisex.",
-      "description": "T-shirt 180 g/m2, nadruk sitodruk, rozmiary S-XL.",
-      "tags": ["koszulka","odziez"]
-    }
-  ]
+﻿{
+    "updatedAt":  "2025-08-27T20:19:34Z",
+    "currency":  "PLN",
+    "products":  [
+                     {
+                         "id":  "p-001",
+                         "name":  "Kubek PROSTY",
+                         "slug":  "kubek-prosty",
+                         "price":  29.99,
+                         "stock":  42,
+                         "category":  "akcesoria",
+                         "thumbnail":  "https://picsum.photos/seed/kubek/640/480",
+                         "images":  [
+                                        "https://picsum.photos/seed/kubek1/800/600",
+                                        "https://picsum.photos/seed/kubek2/800/600"
+                                    ],
+                         "short":  "Bialy kubek 300 ml.",
+                         "description":  "Ceramiczny kubek 300 ml, mozna myc w zmywarce.",
+                         "tags":  [
+                                      "kubek",
+                                      "ceramika",
+                                      "prosty"
+                                  ]
+                     },
+                     {
+                         "id":  "p-002",
+                         "name":  "Koszulka LOGO",
+                         "slug":  "koszulka-logo",
+                         "price":  59.00,
+                         "stock":  17,
+                         "category":  "odziez",
+                         "thumbnail":  "https://picsum.photos/seed/koszulka/640/480",
+                         "images":  [
+                                        "https://picsum.photos/seed/koszulka1/800/600"
+                                    ],
+                         "short":  "Bawelna 100%%, unisex.",
+                         "description":  "T-shirt 180 g/m2, nadruk sitodruk, rozmiary S-XL.",
+                         "tags":  [
+                                      "koszulka",
+                                      "odziez"
+                                  ]
+                     },
+                     {
+                         "id":  "p-003",
+                         "name":  "Czapka PRO",
+                         "slug":  "czapka-pro",
+                         "price":  39.9,
+                         "stock":  15,
+                         "category":  "odziez",
+                         "thumbnail":  "https://picsum.photos/seed/czapka/640/480",
+                         "images":  [
+                                        "https://picsum.photos/seed/czapka1/800/600"
+                                    ],
+                         "short":  "Ciepła czapka.",
+                         "description":  "Akryl, uniwersalny rozmiar.",
+                         "tags":  [
+                                      "czapka",
+                                      "odziez"
+                                  ]
+                     }
+                 ]
 }
